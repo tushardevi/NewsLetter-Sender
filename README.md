@@ -1,8 +1,8 @@
 # NewsLetter-Sender
 System which send newsletters to its suscribers
 
-*************************************
-Instuctions to run the program
-*************************************
+*******************************************************************
+Instuctions to run the program ::: Open "dist" and run main.exe
+********************************************************************
 
-Open "dist" and run main.exe
+
