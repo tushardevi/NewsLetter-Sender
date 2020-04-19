@@ -1,0 +1,5 @@
+('c:\\users\\tushar\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\chardet-3.0.4-py3.8.egg',
+ None,
+ {'*.pyc', '*.pyd', '*.py', 'EGG-INFO', '*.pyw', '*.cp38-win32.pyd'},
+ 'DATA',
+ [])
